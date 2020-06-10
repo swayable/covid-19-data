@@ -1,0 +1,228 @@
+
+
+ AnnualHouseholdIncome: What is your approximate annual household income in dollars? 
+
+   Number
+
+
+ BirthYear2020: What is your year of birth?
+
+   Number
+
+
+ CoronavirusConcern2: How concerned are you about the coronavirus?
+
+   0: Not at All
+   5: Somewhat
+   10: Extremely Concerned
+
+
+ CoronavirusEmployment: How has your employment status changed since January 1, 2020? (select all that apply)
+
+   was-full: I was employed full-time on January 1, 2020.
+   was-part: I was employed part-time on January 1, 2020.
+   was-jobless: I was unemployed on January 1, 2020.
+   now-full: I am now employed full-time. 
+   now-part: I am now employed part-time. 
+   now-jobless: I am now unemployed. 
+   now-retired: I am now retired. 
+   was-retired: I was retired on January 1, 2020.
+   was-disabled: I was disabled and unable to work on January 1, 2020. 
+   now-disabled: I am now disabled and unable to work.
+
+
+ CoronavirusIntent_Mask: Because of Coronavirus, do you intend to wear a face mask in public?
+
+   0: No
+   50: Possibly / Unsure
+   100: Yes
+
+
+ CoronavirusIntent_SixFeet: Are you trying to stay 6 feet away from other people, because of Coronavirus? 
+
+   0: No
+   50: Possibly/Unsure
+   100: Yes
+
+
+ CoronavirusIntent_StayHome: Do you intend to stay at home as much as possible right now, because of Coronavirus? 
+
+   0: No
+   50: Possibly/Unsure
+   100: Yes
+
+
+ CoronavirusIntent_WashHands: Do you intend to wash your hands more than usual, for at least 20 seconds each time?
+
+   0: No
+   50: Possibly/Unsure
+   100: Yes
+
+
+ CoronavirusLocalCommunity: Do you know anyone in your local community who has contracted Coronavirus? If so, how many people? Please enter “0” if none.
+
+   Number
+
+
+ CoronavirusSupportSystem: If you need help in the next 6 months because of the COVID-19 pandemic, who do you think is most likely to help you? (select all that apply)
+
+   fam-friend: Family and friends
+   employer: Employer
+   religious: Religious community
+   local-gov: Local government
+   state-gov: State government
+   fedgov: Federal government
+   other: Other
+   no-one: No one
+   local-community: Local community groups
+   private-org: A private organizatio
+
+
+ CoronavirusSymptomSelect: Are you personally experiencing any of the following: (select all that apply)
+
+   dry-cough: Dry cough
+   short-breath: Shortness of breath
+   diarrhea: Diarrhea
+   muscle-ache: Muscle ache
+   fatigue: Fatigue
+   nasal: Runny nose or nasal congestion
+   sore-throat: Sore throat
+   lost-smell-taste: Loss of smell / taste
+   fever: Fever
+   headache: Headache
+   nausea-vomit: Nausea and/or vomiting
+   none: Non
+
+
+ CoronavirusUnderstanding1: Please select any/all statement(s) that you believe to be true: 
+
+   corona-similar-flu: Coronavirus is similar to the flu: it does not kill people unless they’re old or already sick.
+   corona-only-elderly: Young people cannot contract Coronavirus, only older people can.
+   young-invulnerable: Young, healthy people can contract Coronavirus but cannot be harmed by it.
+   elderly-more-risk: People of all ages can contract Coronavirus, but older people are more vulnerable to becoming severely ill.
+   corona-all-hospitalize: Coronavirus can require hospitalization for people of any age, even those who were otherwise healthy.
+   corona-kills-most: Coronavirus will kill most people who contract it.
+   none-true: None of the above
+
+
+ CoronavirusUnderstanding2: Please select any/all statement(s) that you believe to be true:
+
+   ethnicity-spreads-covid: It is much more likely to get Coronavirus from people of some ethnicities than others.
+   all-spread-covid: People of any background are equally at risk of spreading Coronavirus.
+   non-natives-spread-covid: People who were born overseas are more likely to spread Coronavirus
+
+
+ CoronavirusUnderstanding3: Please select any/all statement(s) that you believe to be true:
+
+   asymptomatic-spread: People can be infected with Coronavirus and feel fine but still spread it to others.
+   only-sick-spread: People who get sick from Coronavirus can spread it to others, but those who feel fine cannot.
+   infect-from-animal: People who contract Coronavirus generally get it from infected animals and animal products
+
+
+ CoronavirusUnderstanding4: What proportion of 35 year olds who get Coronavirus will require hospitalization? 
+
+   one-in-30k: Around 1 in 30,000
+   one-in-1k: Around 1 in 1,000
+   three-in-ten: Around 0.3 percent
+   three-percent: Around 3 percent
+   thirty-percent: Around 30 percent
+   almost-all: Almost al
+
+
+ CoronavirusWhenShouldReopen: From your understanding, roughly how long should it be before restrictions on normal in-person activities are lifted in your area?
+
+   immediate: Immediately
+   few-days: In a few days
+   1-wk: 1 week
+   2-wk: 2 weeks
+   3-wk: 3 weeks
+   1-mo: 1 month
+   2-mo: 2 months
+   3-mo: 3 months
+   4-mo: 4 months
+   5-mo: 5 months
+   6-mo: 6 months
+   1-yr: 1 year
+   yr-plus: More than a yea
+
+
+ Education_Alt2: What is your educational background?
+
+   school: Some School / No Diploma
+   highschool: High School Graduate
+   some-college: Some College
+   college: College Degree
+   postgrad: Postgraduate Degre
+
+
+ Ethnicity: What is your race or ethnic group?
+
+   asian: Asian
+   black: Black
+   hispanic-latino: Hispanic or Latino
+   white: White
+   other-mixed: Other/Mixe
+
+
+ Gender: What is your gender?
+
+   female: Female
+   male: Male
+   other: Othe
+
+
+ HasCoronavirusBelief: Do you believe you currently have Coronavirus?
+
+   0: Definitely No
+   5: Unlikely but Possible 
+   10: Yes
+
+
+ PoliticalBeliefsNoOp: On a scale from very liberal to very conservative, how would you best describe your political views?
+
+   0: Very Liberal
+   5: Moderate
+   10: Very Conservative
+
+
+ PoliticalPartyNoOp: In terms of politics, do you consider yourself a Democrat, independent, or Republican?
+
+   0: Strongly Democrat
+   5: Independent
+   10: Strongly Republican
+
+
+ Religion_Alt1: What is your present religion, if any?
+
+   evangelical-protestant: Evangelical Protestant
+   other-protestant: Other Protestant
+   catholic: Catholic
+   mormon: Mormon
+   orthodox: Orthodox
+   jewish: Jewish
+   muslim: Muslim
+   buddhist: Buddhist
+   hindu: Hindu
+   atheist: Atheist
+   agnostic: Agnostic
+   something-else: Something Else
+   nothing-in-particular: Nothing in Particula
+
+
+ Religiosity_Alt2: How important would you say religion is in your life?
+
+   0: Not Very Important
+   5: Somewhat Important
+   10: Very Important
+
+
+ TrumpApproveNoOp: Do you approve or disapprove of the way Donald Trump is handling his job as President?
+
+   0: Strongly Disapprove
+   5: Neither Approve nor Disapprove
+   10: Strongly Approve
+
+
+ ZipCode: What is your zip code?
+
+   String
